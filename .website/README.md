@@ -1,4 +1,8 @@
 ---
+genres:
+  - action
+  - adventure
+  - rpg
 post: https://github.com/morazor/TCM/wiki
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
